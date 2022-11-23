@@ -1,0 +1,3 @@
+displayName = testmod
+author = testperson
+version = 0.1
